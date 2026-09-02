@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|d:\\uni\\year_3\\source\\prog_2b\\gameachievementtracker.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|d:\\uni\\year_3\\source\\prog_2b\\gameachievementtracker.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|d:\\uni\\year_3\\source\\prog_2b\\gameachievementtracker.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|d:\\uni\\year_3\\source\\prog_2b\\gameachievementtracker.webapi\\controllers\\gameswebapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|solutionrelative:controllers\\gameswebapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|d:\\uni\\year_3\\source\\prog_2b\\gameachievementtracker.webapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A93E895-5CB4-48DB-A624-CE919999276E}|GameAchievementTracker.WebAPI.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-02T16:41:45.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-02T16:40:04.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T16:33:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamesWebAPIController.cs",
+              "DocumentMoniker": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\Controllers\\GamesWebAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GamesWebAPIController.cs",
+              "ToolTip": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\Controllers\\GamesWebAPIController.cs",
+              "RelativeToolTip": "Controllers\\GamesWebAPIController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T16:33:31.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Models\\Game.cs",
+              "ToolTip": "D:\\Uni\\Year_3\\source\\PROG_2B\\GameAchievementTracker.WebAPI\\Models\\Game.cs",
+              "RelativeToolTip": "Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T16:31:43.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
