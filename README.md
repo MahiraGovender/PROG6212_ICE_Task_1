@@ -12,4 +12,3 @@
 
 
 ## Youtube Video Presentation
-[Presentation video](https://youtu.be/lejzx_ee89k)
